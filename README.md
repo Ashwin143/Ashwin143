@@ -8,13 +8,7 @@
   HPC                     : CUDA | MPI | OpenMP
   
 # Repository Summary
+
 # Machine Learning and MLOps
-Computational           : C++ | C | Python | Matlab 
-FEM Pacakages           : ParMooN | deal-ii (Basics)
-Build & Version Control : Git | CMake 
-MLOps                   : Github Actions | DVC | Flask | Docker
-Meshing                 : Gmsh | Pointwise (Basics)
-HPC                     : CUDA | MPI | OpenMP 
-Reporting               : LaTeX
-Web Development         : HTML5 | CSS3 | Javascript | p5.js
+
 
