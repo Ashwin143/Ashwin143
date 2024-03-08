@@ -1,4 +1,4 @@
-# Hi, I am Ashwin.Parthasarathy 😀
+# Hi, I am Ashwin Parthasarathy 😀
   I’m currently working as Machine learning engineer and working on personal projects in MLOps scope.
   
 ## Programming Languages ##
@@ -9,6 +9,6 @@
   
 ## Repository Summary ##
 
-### Machine Learning and MLOps ###
+#### Machine Learning and MLOps ####
 
 
