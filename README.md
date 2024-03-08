@@ -2,16 +2,12 @@
   I’m currently working as Machine learning engineer and working on personal projects in MLOps scope.
   
 ## Programming Languages ##
-  Computational           : Python | R
-  Version Control         : Git
-  MLOps                   : Github Actions | DVC | Azure Devops| Docker
-  HPC                     : CUDA | MPI | OpenMP
 
   ```
-  First Header  | Second Header
-  ------------- | -------------
-  Content Cell  | Content Cell
-  Content Cell  | Content Cell
+   Computational           : Python | R
+   Version Control         : Git
+   MLOps                   : Github Actions | DVC | Azure Devops| Docker
+   HPC                     : CUDA | MPI | OpenMP
 ```
   
 ## Repository Summary ##
