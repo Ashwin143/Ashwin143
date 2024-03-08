@@ -11,4 +11,6 @@
 
 # Machine Learning and MLOps
 
+.Patient_Death Prediction -  prediction using the patient health data 
+
 
