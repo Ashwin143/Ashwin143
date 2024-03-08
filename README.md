@@ -10,8 +10,9 @@
    HPC                     : CUDA | MPI | OpenMP
 ```
   
-## Repository Summary ##
 
-#### Machine Learning and MLOps ####
+##Machine Learning and MLOps ##
+
+####Machine Learning####
 
 
