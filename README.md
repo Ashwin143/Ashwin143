@@ -7,7 +7,8 @@
    Computational           : Python | R
    Version Control         : Git
    MLOps                   : Github Actions | DVC | Azure Devops| Docker | mlflow
-   HPC                     : CUDA 
+   HPC                     : CUDA
+   Cloud                   : AWS | Azure
 ```
   
 
