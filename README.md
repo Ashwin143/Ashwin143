@@ -17,7 +17,7 @@
 
 ### Machine Learning #### 
 
- - [House price Prediction](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ), [Employee-attrition-prediction](https://github.com/Ashwin143/Employee-attrition-prediction)
+ - [House price Prediction](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ), [Employee-attrition-prediction](https://github.com/Ashwin143/Employee-attrition-prediction),[Face-Mask-Detection](https://github.com/Ashwin143/Face-Mask-Detection)
    
  - [Patient Death](https://github.com/Ashwin143/patient_death) - Patient Survival Prediction using XGBoost and deployment using fastapi and huggingface
    
