@@ -34,7 +34,9 @@
 ### MLOps ####
 
    
- - [Bike Rental Prediction]  - Bike Rental Prediction 
+ - [Bike Rental Prediction]  - Bike Rental Prediction
+   
+ - Patient Survival Prediction - CICD with AWS ECR and ECS
 
 
 
