@@ -14,7 +14,7 @@
 ## Machine Learning and MLOps ##
 
 ### Machine Learning ####
- - [HOUSE-VALUE-PREDICTION](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION "Named link title") 
+ - [HOUSE-VALUE-PREDICTION](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ) 
 
 ### MLOps ####
 
