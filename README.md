@@ -14,7 +14,7 @@
 ## Machine Learning and MLOps ##
 
 ### Machine Learning ####
- -  [HOUSE-VALUE-PREDICTION] House value prediction model with random forest regressor
+ -  Markup :  [Named Link](http://www.google.fr/ "Named link title") 
 
 ### MLOps ####
 
