@@ -17,7 +17,7 @@
 
 ### Machine Learning #### 
 
- - [House price Prediction](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ) - House Price prediction using Random forest regression algorithm
+ - [House price Prediction](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ), [Employee-attrition-prediction](https://github.com/Ashwin143/Employee-attrition-prediction)
    
  - [Patient Death](https://github.com/Ashwin143/patient_death) - Patient Survival Prediction using XGBoost and deployment using fastapi and huggingface
    
