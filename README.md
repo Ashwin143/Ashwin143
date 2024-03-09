@@ -3,7 +3,7 @@
   
 ## Programming Languages ##
 
-  ```
+```
    Computational           : Python | R
    Version Control         : Git
    MLOps                   : Github Actions | DVC | Azure Devops| Docker
@@ -14,7 +14,7 @@
 ## Machine Learning and MLOps ##
 
 ### Machine Learning ####
- - [HOUSE-VALUE-PREDICTION](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ) 
+ - [HOUSE-VALUE-PREDICTION](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ) - House Price prediction using Random forest regression algorithm
 
 ### MLOps ####
 
