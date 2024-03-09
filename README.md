@@ -4,12 +4,12 @@
 ## Programming ##
 
 ```
-   Computational           : Python | R | flask/fastapi
-   Version Control         : Git
-   MLOps                   : Github Actions | DVC | Azure Devops| Docker | mlflow
-   HPC                     : CUDA
-   Cloud                   : AWS | Azure
-   IAC                     : Terraform
+   Language/Framework       : Python | R | flask/fastapi
+   Version Control          : Git
+   MLOps                    : Github Actions | DVC | Azure Devops| Docker | mlflow
+   HPC                      : CUDA
+   Cloud                    : AWS | Azure
+   IAC                      : Terraform
 ```
   
 
