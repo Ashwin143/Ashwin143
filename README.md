@@ -6,7 +6,7 @@
 ```
    Computational           : Python | R
    Version Control         : Git
-   MLOps                   : Github Actions | DVC | Azure Devops| Docker
+   MLOps                   : Github Actions | DVC | Azure Devops| Docker | mlflow
    HPC                     : CUDA | MPI | OpenMP
 ```
   
