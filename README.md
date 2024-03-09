@@ -16,12 +16,25 @@
 ## Machine Learning and MLOps ##
 
 ### Machine Learning #### 
+
  - [House price Prediction](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION ) - House Price prediction using Random forest regression algorithm
    
- - [Patient Death](https://github.com/Ashwin143/patient_death) - Patient death prediction using xgboost and deployment using fastapi and huggingface
+ - [Patient Death](https://github.com/Ashwin143/patient_death) - Patient Survival Prediction using XGBoost and deployment using fastapi and huggingface
    
- - [Sentiment Classification](https://github.com/Ashwin143/amazon_sentiment_classification)  - Sentiment Classification on Amazon food reviews
+ - [Sentiment Classification](https://github.com/Ashwin143/amazon_sentiment_classification)  - Sentiment Classification on Amazon Food Reviews dataset with ec2 deployment
+
+ - [Keywords Extraction]  - Keywords Extraction using Transformer on Medical Dataset
+   
+ - [Resume Classification]  - Resume Classification using Naive Bayes
+   
+ - [Fine-tuning StableDiffusion]  - Fine-tuning StableDiffusion with DreamBooth
+   
+ - [GPT2 Fine tuning]  - Medical Question Answering using GPT2 Model,Bike Rental Prediction with CI/CD
 
 ### MLOps ####
+
+   
+ - [Bike Rental Prediction]  - Bike Rental Prediction 
+
 
 
