@@ -4,7 +4,7 @@
 ## Programming ##
 
 ```
-   Computational           : Python | R
+   Computational           : Python | R | flask/fastapi
    Version Control         : Git
    MLOps                   : Github Actions | DVC | Azure Devops| Docker | mlflow
    HPC                     : CUDA
