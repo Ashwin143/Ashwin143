@@ -14,7 +14,7 @@
 ## Machine Learning and MLOps ##
 
 ### Machine Learning ####
- -  Markup: [HOUSE-VALUE-PREDICTION](#[heading-1](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION)https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION "go to HOUSE-VALUE-PREDICTION  ")
+ - [HOUSE-VALUE-PREDICTION](#[heading-1](https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION)https://github.com/Ashwin143/HOUSE-VALUE-PREDICTION "go to HOUSE-VALUE-PREDICTION  ")
 
 ### MLOps ####
 
