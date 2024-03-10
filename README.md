@@ -23,7 +23,7 @@
    
  - [Sentiment Classification](https://github.com/Ashwin143/amazon_sentiment_classification)  - Sentiment Classification on Amazon Food Reviews dataset with ec2 deployment
 
- - [Keywords Extraction]  - Keywords Extraction using Transformer on Medical Dataset
+ - [Keywords Extraction](https://github.com/Ashwin143/Keyword_Extraction)  - Keywords Extraction using Transformer on Medical Dataset
    
  - [Resume Classification]  - Resume Classification using Naive Bayes
    
