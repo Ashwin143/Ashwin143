@@ -32,11 +32,13 @@
  - [GPT2 Fine tuning]  - Medical Question Answering using GPT2 Model,Bike Rental Prediction with CI/CD
 
 ### MLOps ####
-
    
  - [Bike Rental Prediction]  - Bike Rental Prediction
+   
  - Patient Survival Prediction - CICD with AWS ECR and ECS
+   
  - Distributed_Training_TensorFlow
+   
  - Distributed_XGBoost_with_Ray
 
 
