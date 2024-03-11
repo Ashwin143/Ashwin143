@@ -29,8 +29,7 @@
    
  - [Fine-tuning StableDiffusion]  - Fine-tuning StableDiffusion with DreamBooth
    
- - [GPT2 Fine tuning]  - Medical Question Answering using GPT2 Model,Bike Rental Prediction with CI/CD
-
+ - [GPT2 Fine tuning](https://github.com/Ashwin143/Keyword_Extraction)  - Medical Question Answering using GPT2 Model
 ### MLOps ####
    
  - [Bike Rental Prediction]  - Bike Rental Prediction
