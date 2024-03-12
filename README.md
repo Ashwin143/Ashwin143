@@ -25,7 +25,7 @@
 
  - [Keywords Extraction](https://github.com/Ashwin143/Keyword_Extraction)  - Keywords Extraction using Transformer on Medical Dataset
    
- - [Resume Classification](https://github.com/Ashwin143/Keyword_Extraction)  - Resume Classification using Naive Bayes
+ - [Resume Classification](https://github.com/Ashwin143/Resume-Classification)  - Resume Classification using Naive Bayes
    
  - [Fine-tuning StableDiffusion](https://github.com/Ashwin143/Keyword_Extraction)   - Fine-tuning StableDiffusion with DreamBooth
    
