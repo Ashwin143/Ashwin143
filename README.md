@@ -25,20 +25,20 @@
 
  - [Keywords Extraction](https://github.com/Ashwin143/Keyword_Extraction)  - Keywords Extraction using Transformer on Medical Dataset
    
- - [Resume Classification]  - Resume Classification using Naive Bayes
+ - [Resume Classification](https://github.com/Ashwin143/Keyword_Extraction)  - Resume Classification using Naive Bayes
    
- - [Fine-tuning StableDiffusion]  - Fine-tuning StableDiffusion with DreamBooth
+ - [Fine-tuning StableDiffusion](https://github.com/Ashwin143/Keyword_Extraction)   - Fine-tuning StableDiffusion with DreamBooth
    
  - [GPT2 Fine tuning](https://github.com/Ashwin143/Medical-Question-Answering-)  - Medical Question Answering using GPT2 Model
 ### MLOps ####
    
- - [Bike Rental Prediction]  - Bike Rental Prediction
+ - [Bike Rental Prediction](https://github.com/Ashwin143/Keyword_Extraction)   - Bike Rental Prediction
    
- - Patient Survival Prediction - CICD with AWS ECR and ECS
+ - [Patient Survival Prediction](https://github.com/Ashwin143/Keyword_Extraction)  - CICD with AWS ECR and ECS
    
- - Distributed_Training_TensorFlow
+ - [Distributed_Training_TensorFlow](https://github.com/Ashwin143/Keyword_Extraction)
    
- - Distributed_XGBoost_with_Ray
+ - [Distributed_XGBoost_with_Ray](https://github.com/Ashwin143/Keyword_Extraction)
 
 
 
