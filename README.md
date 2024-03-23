@@ -37,8 +37,7 @@
    
  - [Patient Survival Prediction]()  - CICD with AWS ECR and ECS
 
- - [Driver-Demand-Prediction](https://github.com/Ashwin143/Driver-Demand-Prediction) - Driver-Demand-Prediction-for-Optimal-Food-Delivery-Charges
-   
+ - [Driver-Demand-Prediction](https://github.com/Ashwin143/Driver-Demand-Prediction) - Driver-Demand-Prediction
  - [Distributed_Training_TensorFlow]()
    
  - [Distributed_XGBoost_with_Ray]()
