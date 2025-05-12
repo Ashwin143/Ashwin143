@@ -6,9 +6,9 @@
 ```
    Language/Framework       : Python | R | flask/fastapi
    Version Control          : Git
-   MLOps                    : Github Actions | DVC | Azure Devops| Docker | mlflow
+   MLOps                    : Github Actions | DVC | Azure Devops| Docker | mlflow | k8s | Databricks
    HPC                      : CUDA
-   Cloud                    : AWS | Azure
+   Cloud                    : AWS | Azure | GCP
    IAC                      : Terraform
 ```
   
