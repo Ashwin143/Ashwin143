@@ -10,6 +10,7 @@
    HPC                      : CUDA
    Cloud                    : AWS | Azure | GCP
    IAC                      : Terraform
+   Automation               : n8n
 ```
   
 
