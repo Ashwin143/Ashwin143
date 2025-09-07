@@ -45,6 +45,8 @@
 
 ### Generative AI Agent ###
 
- - https://github.com/aemal/n8n-python-sdk
+ - [Python SDK for creating and managing n8n workflows.](https://github.com/aemal/n8n-python-sdk)
+   
+ - [Natural-Language-Database-Query-System-using-MCP](https://github.com/Ashwin143/Natural-Language-Database-Query-System-using-MCP)
 
 
