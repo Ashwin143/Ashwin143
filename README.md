@@ -45,4 +45,6 @@
 
 ### Generative AI Agent ###
 
+ - https://github.com/aemal/n8n-python-sdk
+
 
