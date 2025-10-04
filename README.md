@@ -34,12 +34,11 @@
  - [GPT2 Fine tuning](https://github.com/Ashwin143/Medical-Question-Answering-)  - Medical Question Answering using GPT2 Model
 
 ### MLOps ####
-   
- - [Bike Rental Prediction]()   - Bike Rental Prediction
-   
+     
  - [Patient Survival Prediction]()  - CICD with AWS ECR and ECS
 
  - [Driver-Demand-Prediction](https://github.com/Ashwin143/Driver-Demand-Prediction) - Driver-Demand-Prediction
+   
  - [Distributed_Training_TensorFlow]()
    
  - [Distributed_XGBoost_with_Ray]()
