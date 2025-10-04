@@ -41,7 +41,7 @@
    
  - [Distributed_Training_TensorFlow]()
    
- - [Distributed_XGBoost_with_Ray]()
+ - [Distributed_XGBoost_with_Ray](https://github.com/Ashwin143/Distributed_Training)
 
 ### Generative AI Agent ###
 
