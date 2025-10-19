@@ -5,7 +5,7 @@
 ## Programming ##
 
 ```
-   Language/Framework       : Python | R | flask/fastapi
+   Language/Framework       : Python | R | flask/fastapi | Go
    Version Control          : Git
    MLOps                    : Github Actions | DVC | Azure Devops| Docker | mlflow | k8s | Databricks
    HPC                      : CUDA
