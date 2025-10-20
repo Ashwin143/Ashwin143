@@ -2,7 +2,7 @@
   I’m currently working as Machine learning engineer and working on personal projects in MLOps scope.
   https://ashwin143.github.io/#
   
-## Programming ##
+## Skills ##
 
 ```
    Language/Framework       : Python | R | flask/fastapi | Go
