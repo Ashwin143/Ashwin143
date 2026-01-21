@@ -39,7 +39,7 @@
 
  - [Driver-Demand-Prediction](https://github.com/Ashwin143/Driver-Demand-Prediction) - Driver-Demand-Prediction
    
- - [Distributed_XGBoost_with_Ray](https://github.com/Ashwin143/Distributed_Training)
+ - [Distributed_XGBoost_with_Ray](https://github.com/Ashwin143/Distributed_Training) - Hands-on with Raay using XGBoost
 
 ### Generative AI Agent ###
 
