@@ -41,7 +41,7 @@
    
  - [Distributed_XGBoost_with_Ray](https://github.com/Ashwin143/Distributed_Training) - Hands-on with Raay using XGBoost
 
-### Generative AI Agent ###
+### Generative AI / Agent AI ###
 
  - [Python SDK for creating and managing n8n workflows.](https://github.com/aemal/n8n-python-sdk)
    
