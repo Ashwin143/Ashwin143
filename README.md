@@ -39,8 +39,6 @@
 
  - [Driver-Demand-Prediction](https://github.com/Ashwin143/Driver-Demand-Prediction) - Driver-Demand-Prediction
    
- - [Distributed_Training_TensorFlow]()
-   
  - [Distributed_XGBoost_with_Ray](https://github.com/Ashwin143/Distributed_Training)
 
 ### Generative AI Agent ###
